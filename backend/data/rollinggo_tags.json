@@ -1,0 +1,394 @@
+{
+  "tags": [
+    {
+      "name": "Near Shopping Mall",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Agoda rating",
+      "category": "Other",
+      "description": {}
+    },
+    {
+      "name": "Independent hotel",
+      "category": "Brand & Rating",
+      "description": {}
+    },
+    {
+      "name": "Local Chain",
+      "category": "Brand & Rating",
+      "description": {}
+    },
+    {
+      "name": "Smart room",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Casino",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Accessible Rooms",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "UnionPay card accepted",
+      "category": "Transport & Payment",
+      "description": {}
+    },
+    {
+      "name": "Alipay/WeChat Pay accepted",
+      "category": "Transport & Payment",
+      "description": {}
+    },
+    {
+      "name": "Express check-in/check-out",
+      "category": "Service & Dining",
+      "description": {}
+    },
+    {
+      "name": "International Chain",
+      "category": "Brand & Rating",
+      "description": {}
+    },
+    {
+      "name": "E-sports themed rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Villa-type rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Connecting rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Family Rooms",
+      "category": "Family & Kids",
+      "description": {}
+    },
+    {
+      "name": "Chinese-speaking staff",
+      "category": "Service Details",
+      "description": {}
+    },
+    {
+      "name": "Butler Service",
+      "category": "Service & Dining",
+      "description": {}
+    },
+    {
+      "name": "Room Service",
+      "category": "Service & Dining",
+      "description": {}
+    },
+    {
+      "name": "Accessible Parking",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Free Parking",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Chinese signage",
+      "category": "Service Details",
+      "description": {}
+    },
+    {
+      "name": "Minimum room size",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Hair dryer in room",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "City price ranking",
+      "category": "Price Related",
+      "description": {}
+    },
+    {
+      "name": "24-Hour Front Desk",
+      "category": "Service & Dining",
+      "description": {}
+    },
+    {
+      "name": "Bicycle Rental",
+      "category": "Transport & Payment",
+      "description": {}
+    },
+    {
+      "name": "Airport Shuttle",
+      "category": "Transport & Payment",
+      "description": {}
+    },
+    {
+      "name": "Group Chain",
+      "category": "Other",
+      "description": {}
+    },
+    {
+      "name": "Accessible access routes",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Estimated lowest price",
+      "category": "Price Related",
+      "description": {}
+    },
+    {
+      "name": "Airport Hotel",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Accessible Hotel",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Business Hotel",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Electric kettle in room",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Slippers provided in room",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Free Wi-Fi",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Hotel Brand",
+      "category": "Other",
+      "description": {}
+    },
+    {
+      "name": "Pet Friendly",
+      "category": "Service Details",
+      "description": {}
+    },
+    {
+      "name": "Family Friendly",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Cots/Cribs Available",
+      "category": "Family & Kids",
+      "description": {}
+    },
+    {
+      "name": "Premium Stay",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Kids' Facilities",
+      "category": "Family & Kids",
+      "description": {}
+    },
+    {
+      "name": "Great Value",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Spa",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Gym",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Outdoor Pool",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Sports Friendly",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Heated Indoor Pool",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Chinese-friendly hotel",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Chinese breakfast available",
+      "category": "Service & Dining",
+      "description": {}
+    },
+    {
+      "name": "Resort",
+      "category": "Hotel Type",
+      "description": {}
+    },
+    {
+      "name": "Adults only",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Hotel theme features",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Some rooms with garden view",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Children’s pool",
+      "category": "Family & Kids",
+      "description": {}
+    },
+    {
+      "name": "Kids' Club",
+      "category": "Family & Kids",
+      "description": {}
+    },
+    {
+      "name": "Laundry Service",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Banquet hall",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Public Hot Spring",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Quadruple rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Theme Park Hotel",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Triple rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Special bed types available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Twin rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Business center",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Some rooms without windows",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Conference facilities available",
+      "category": "Special Features",
+      "description": {}
+    },
+    {
+      "name": "Some rooms with mountain view",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Public Beach",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Some rooms with city view",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Private Beach",
+      "category": "Core Facilities",
+      "description": {}
+    },
+    {
+      "name": "Some rooms with sea view",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Rooms with double bed available",
+      "category": "View & Room Type",
+      "description": {}
+    },
+    {
+      "name": "Smoking rooms available",
+      "category": "View & Room Type",
+      "description": {}
+    }
+  ],
+  "usageGuide": {
+    "tagUsage": "Put tag names into hotelTags.preferredTags (preferred), requiredTags (required), or excludedTags (excluded) lists",
+    "exampleRequest": {
+      "place": "Tokyo",
+      "placeType": "city",
+      "hotelTags": {
+        "preferredTags": [
+          "Outdoor Pool",
+          "Family Hotel",
+          "Free WiFi"
+        ],
+        "requiredTags": [
+          "Free Parking"
+        ],
+        "excludedTags": [
+          "Adults Only"
+        ]
+      }
+    }
+  }
+}
